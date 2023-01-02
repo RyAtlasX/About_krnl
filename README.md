@@ -32,4 +32,4 @@ Q. Can I get banned for using Krnl in Roblox?
 
 Ans. Although, we suggest you keep using it at your risk and for entertainment. If people find out that you’re cheating, you might get a flag as a cheater. It will ban your account for some days or a permanent ban if you again cheat.
 
-#               © 2023 Krnl Note: This is not an official site, We are just bunch of fans who love Krnl to the core
+#              Copyright © https://Krnl.Vip - https://Krnl.place All Right Reversed.
