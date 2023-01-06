@@ -13,11 +13,16 @@ Krnl is the exploit which is designed and made by the most popular Ice Bear who 
 5. The last step when you open the exploit folder and run “[EXPLOIT-NAME].exe”.
 
 # Krnl Download Link:
-# Krnl Beta: https://krnl.vip/dl 
-# Krnl Legacy: https://krnl.vip/lv 
-# Krnl WeAreDevs: https://wearedevs.net/d/Krnl 
-# Krnl API.dll: https://krnl.vip/api 
-# Krnl ConsoleBootstrapper: https://github.com/RyAtlasX/krnl_console-bootstrapper/raw/main/krnl_console_bootstrapper.exe
+# Krnl Beta:
+https://krnl.vip/dl 
+# Krnl Legacy:
+https://krnl.vip/lv 
+# Krnl WeAreDevs:
+https://wearedevs.net/d/Krnl 
+# Krnl API.dll:
+https://krnl.vip/api 
+# Krnl ConsoleBootstrapper:
+https://github.com/RyAtlasX/krnl_console-bootstrapper/raw/main/krnl_console_bootstrapper.exe
 
 # Frequently Asked Questions (FAQs) :
 Q. Is Krnl illegal and secure to use?
