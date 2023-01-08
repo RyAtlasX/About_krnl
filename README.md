@@ -177,7 +177,7 @@ If Krnl does nothing after the installation or shows errors, then follow the ste
 
 Make sure you’ve excluded the Krnl from windows defender in Protection and threat settings.
 If you have any 3rd party antivirus installed on your computer, then disable it.
-Download and install these files.
+Download and install these files below.
 # For the .Net framework package, use this link: 
 https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net472-web-installer
 
