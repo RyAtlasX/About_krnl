@@ -107,7 +107,8 @@ Not available for other operating systems other than windows.
 Most patches of the DLL injector get updated almost every week. So, regularly check the website if there’s any update available.
 If you’re unable to download the software, try disabling your Antivirus or Windows Firewall.
 
-# 2. Coco Z: It’s a beautifully designed, feature-rich, good execution exploit created by Walz, N4ri, and MC.
+# 2. Coco Z: 
+It’s a beautifully designed, feature-rich, good execution exploit created by Walz, N4ri, and MC.
 
 Coco Z Instruction
 
