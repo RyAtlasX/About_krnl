@@ -153,6 +153,43 @@ For a smooth experience, you must have the operating systems of at least windows
 Also, check your ISP if the internet connection is down while using the Oxygen U. If yes, install and use a VPN application.
 Now, just have to download the Oxygen U exploit, install it and execute the scripts to hack your favorite game.
 
+# Krnl is not working
+By krnl
+May 26, 2021
+Roblox is an online virtual playground and workshop where users can start by creating, choosing an avatar, and giving it an identity and then explores Roblox by interacting with others by conversing, engaging in games, or cooperating on creative projects. Krnl is one of the finest exploits that find glitches and software vulnerabilities by players to alter the game or gameplay for their interests in Roblox. It can be any form of executable programs, scripts, or injectable DLL files.
+
+# Fix 1: Don’t use third-party antivirus.
+
+Most users experience enabling third-party antivirus like; McAfee, Norton, Eset, Kaspersky, etc. don’t give you expected results. If you’ve any of these antiviruses, then uninstall or disable that.
+
+# Fix 2: Exclude Krnl from Windows defender and use the latest version.
+
+Make sure your Krnl isn’t blocked by Windows defender. Exclude it via manage settings in virus and threat protection. Reboot the system. Download the latest version of Krnl and install it via keeping the above things in mind.
+
+# Attach does nothing in Krnl
+By krnl
+May 26, 2021
+Roblox is an online storefront where users are given the piece of undeveloped real estate accompanying a virtual toolbox to design and build anything. By participating and by developing cool stuff, Roblox members can earn specialty Roblox currency called Robux. Krnl is a stable exploit or a script execution developed by Ice Bear to create reliable cheats and developing the user’s avatar in the game.
+
+Since it can change a user’s avatar and clothing in Roblox, its developers get many complaints about different types of errors. Although, the error of Krnl not working is fixed on its own, or sometimes it doesn’t. Below are the methods to fix this problem.
+
+If Krnl does nothing after the installation or shows errors, then follow the steps carefully mentioned below.
+
+Make sure you’ve excluded the Krnl from windows defender in Protection and threat settings.
+If you have any 3rd party antivirus installed on your computer, then disable it.
+Download and install these files.
+# For the .Net framework package, use this link: 
+https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net472-web-installer
+
+# For Visual C++ Redistributable files, use these links:
+
+https://aka.ms/vs/16/release/vc_redist.x64.exe/
+
+https://aka.ms/vs/16/release/vc_redist.x86.exe/
+
+ 
+
+
 # Frequently Asked Questions (FAQs) :
 Q. Is Krnl illegal and secure to use?
 
