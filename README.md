@@ -37,6 +37,16 @@ https://krnl.vip/api
 # Krnl ConsoleBootstrapper: 
 https://github.com/RyAtlasX/krnl_console-bootstrapper/raw/main/krnl_console_bootstrapper.exe
 
+# Krnl.dll Download
+Krnl is arguably one among the simplest Roblox exploits out there in terms of script execution. Krnl is extremely stable meaning it rarely crashes. When an application requires krnl.dll, Windows will check the appliance and system folders for this .dll file. If the file is missing you’ll receive a mistake and therefore the application might not function properly.
+
+# Possible Fixes for krnl.dll Errors
+First re-Install the app that requires krnl.dll.
+Make sure your app has the latest update.
+Install all the available Windows updates and also available driver updates.
+Optimize your computer and Clean your registry.
+Finally Download and install krnl.dll.
+
 # Get Krnl key
 https://krnl.vip/kkey 
 
@@ -78,6 +88,70 @@ Krnl has various levels compatible with specific versions of the Roblox gaming e
 Krnl Key is a text or a string of characters, which the user has to enter in the Krnl key system to use the exploit resources. However, this Krnl key system may not work on some devices or take a very long time. But, you can bypass the Krnl key and without even downloading other software. 
 
 For bypassing the Krnl key system, you have to visit the Linkvertise website and select the Krnl key bypass option that fits your system description. Now, click on the Free access option and a new webpage will appear. From there, you just have o complete a simple task and continue with the key generation process. You can also watch the Youtube video associated with every Krnl key bypass guide.
+
+# Top 5 Krnl Alternatives That Works
+By krnl
+May 26, 2021
+Krnl is one of the best and most popular exploits for the Roblox platform. It’s a pretty stable and reliable tool that allows the user to super-compact scripts like the Owl Hub for free. This is because Krnl uses key systems to generate revenue.
+
+Although Krnl is a great software and doesn’t show many problems, sometimes it crashes or doesn’t function because of some compatibility issues. In that case, you can check out these top 5 alternatives of Krnl that work pretty well on almost every device.
+
+# 1. JJSploit:
+From a simple command-line cheat program, JJSploit has now become a full-features Lua executor that works in almost any device. With no paid advertisements, JJSploit provides a clean UI which makes it easier for the user to run complex cheats without facing any crash issue.
+
+JJSploit Instruction
+
+It’s a DLL exploit and requires a DLL injector to work properly.
+Works with both 32 bit and 64 Windows OS devices(Windows 7 or above).
+Not available for other operating systems other than windows.
+Most patches of the DLL injector get updated almost every week. So, regularly check the website if there’s any update available.
+If you’re unable to download the software, try disabling your Antivirus or Windows Firewall.
+
+# 2. Coco Z: It’s a beautifully designed, feature-rich, good execution exploit created by Walz, N4ri, and MC.
+
+Coco Z Instruction
+
+Create a New folder in your computer hard drive and name it “Coco Z”.
+Op your antivirus program and go to the option of virus& threat protection.
+Select “Manage Settings”, scroll down ‘Exclusions’ and then ‘Add or remove exclusions’.
+Now, Add the exclusion and select that Coco Z folder you created.
+Return back to the ‘Virus & threat protection’ settings and disable the Real-time protection.
+Download and extract the zip file. From there, open the application file.
+Accept the privacy policy and press the ‘Get key’ option to a Linkvertise link.
+Now, click on the checkboxes for free access with ads and discover interesting articles.
+Complete the process by copying the key from the Key system page and paste it into Coco Z.
+
+# 3. Skisploit: 
+Skisploit is yet another Lua execute available for free. The main advantage of Skisploit that it doesn’t have any kind of key system as it’s completely free. The user can directly use it for full exploitation of the Roblox. Also, it has some unique features like instance caching, debugging the library, writing a file, getting the clipboard, reading the file, and bit library.
+
+Skisploit Instruction 
+
+Disable your Antivirus, join the Roblox game, and download the hack/Skisploit.
+Follow the whole key generation process mentioned in the software and copy the generated key.
+Now, paste it in the Key box and click on the ‘continue’ or ‘submit’ button.
+The interface will prompt the script execution area, which you can download from the RobloxScript website.
+Pick up the script you like and past it in the execution box.
+Click on the ‘Execute’ button and the script should work on the specific games you’re trying to exploit/hack.
+
+# 4. Gravity Switch:
+It allows the user to play with multiple players at the same time. After applying the scripts of this exploit software, you can play with seven players simultaneously. It also provides different power-ups that help the user improve their high score.
+
+Gravity Switch Instructions
+
+Similar to JJSploit, Gravity Switch comes under DLL exploit, which means you should the corresponding injector.
+Disable your Antivirus and then download the hack. The reason why you should disable it is that the Antivirus mark exploits software like Gravity Switch as malware or virus.
+The remaining process is the same for almost every exploits software, so just follow the steps mentioned for the hacks in the above section.
+
+# 5. Oxygen U: 
+Oxygen U is a level 6 Lua executor that can run more than 80% of the total scripts without crashing. Along with frequent updates and beautiful UI, Oxygen U has a faster loading, attachment, and execution time. The feature-rich custom UI allows the user to quickly set up the exploit and apply and execute the scripts for particular games on Roblox. Moreover, you can download it for free without paying any money, from the Oxygen U website.
+
+Oxygen U Instructions
+
+Check for the updates and download the latest version of Oxygen U.
+Disable your Antivirus software as it recognizes exploit software like Oxygen U as a malware program.
+For a smooth experience, you must have the operating systems of at least windows 7+.
+Also, check your ISP if the internet connection is down while using the Oxygen U. If yes, install and use a VPN application.
+Now, just have to download the Oxygen U exploit, install it and execute the scripts to hack your favorite game.
 
 # Frequently Asked Questions (FAQs) :
 Q. Is Krnl illegal and secure to use?
