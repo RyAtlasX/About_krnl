@@ -5,6 +5,19 @@
 
 Krnl is the exploit which is designed and made by the most popular Ice Bear who is very a popular and trustworthy and made many cheats in the past. Just like some super-compact scripts like Owl Hub. Krnl offers a number of the previously premium-only features for ‘FREE’, so you guys can get rid of paid executor for a few scripts.
 
+# Introduction
+Developed by Ice Bear, Krnl is one of the best and reliable Roblox exploits used to get an advantage by using exploiting the vulnerabilities of the script. When it comes to script performance, Krnl is a pretty stable exploit that rarely crashed during the gameplay.
+
+Ice Bear, the producer of Krnl has also produced other cheat in the past for different gamin platforms and storefronts. That’s why Krnl supports the complete debugging and drawing library of the Roblox. Moreover, Krnl supports scripts like Owl Hub, which means you can execute advanced functions without any problem. 
+
+# Krnl Instructions
+Disable the Antivirus and download the Krnl on your device.
+Open Roblox and join any game you want to play.
+Launch Krnl and finish the key system.
+A key will be generated, paste that in the key box and click on the submit button.
+Now, you’ll see the script executer. Click on the injection button on the bottom side.
+At last, execute the scripts available at the official website ‘https://krnl.vip.
+
 # How to install Krnl? :
 1. Download the exploit by pressing the download link given below.
 2. Unzip the WinRAR Archive file to your Desktop.
