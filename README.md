@@ -33,7 +33,7 @@ https://krnl.vip/lv
 # Krnl WeAreDevs: 
 https://wearedevs.net/d/Krnl 
 # Krnl API.dll: 
-https://krnl.vip/api 
+https://k-storage.com/bootstrapper/files/KrnlAPI.dll
 # Krnl ConsoleBootstrapper: 
 https://github.com/RyAtlasX/krnl_console-bootstrapper/raw/main/krnl_console_bootstrapper.exe
 
