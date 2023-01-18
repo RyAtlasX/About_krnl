@@ -16,7 +16,7 @@ Open Roblox and join any game you want to play.
 Launch Krnl and finish the key system.
 A key will be generated, paste that in the key box and click on the submit button.
 Now, you’ll see the script executer. Click on the injection button on the bottom side.
-At last, execute the scripts available at the official website ‘https://krnl.vip.
+At last, execute the scripts available at the official website https://krnl.place.
 
 # How to install Krnl? :
 1. Download the exploit by pressing the download link given below.
