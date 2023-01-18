@@ -1,4 +1,4 @@
-# About krnl:
+# About krnl
    Krnl is one of the best free Roblox exploit, download Krnl latest version for free.
  
    Krnl is presently the best Roblox exploits out here that you guys can have in terms of script performance. Krnl is one of the exploits which are very stable and steady and it rarely crashed.
