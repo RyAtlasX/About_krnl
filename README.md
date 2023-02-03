@@ -165,7 +165,7 @@ Now, just have to download the Oxygen U exploit, install it and execute the scri
 
 Roblox is an online virtual playground and workshop where users can start by creating, choosing an avatar, and giving it an identity and then explores Roblox by interacting with others by conversing, engaging in games, or cooperating on creative projects. Krnl is one of the finest exploits that find glitches and software vulnerabilities by players to alter the game or gameplay for their interests in Roblox. It can be any form of executable programs, scripts, or injectable DLL files.
 
-<h1> Krnl.dll is not working
+<h1> Krnl is not working
 
  ### Fix 1: Don’t use third-party antivirus.
 
