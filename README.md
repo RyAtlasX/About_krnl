@@ -176,6 +176,8 @@ Most users experience enabling third-party antivirus like; McAfee, Norton, Eset,
 Make sure your Krnl isn’t blocked by Windows defender. Exclude it via manage settings in virus and threat protection. Reboot the system. Download the latest version of Krnl and install it via keeping the above things in mind.
 
  ### Attach does nothing in Krnl
+ 
+ Roblox is an online storefront where users are given the piece of undeveloped real estate accompanying a virtual toolbox to design and build anything. By participating and by developing cool stuff, Roblox members can earn specialty Roblox currency called Robux. Krnl is a stable exploit or a script execution developed by Ice Bear to create reliable cheats and developing the user’s avatar in the game.
 
 Since it can change a user’s avatar and clothing in Roblox, its developers get many complaints about different types of errors. Although, the error of Krnl not working is fixed on its own, or sometimes it doesn’t. Below are the methods to fix this problem.
 
