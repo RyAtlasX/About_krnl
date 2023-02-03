@@ -44,9 +44,10 @@ https://k-storage.com/bootstrapper/files/KrnlAPI.dll
 https://github.com/RyAtlasX/krnl_console-bootstrapper/raw/main/krnl_console_bootstrapper.exe
 
 <h1> Krnl.dll
-Krnl is arguably one among the simplest Roblox exploits out there in terms of script execution. Krnl is extremely stable meaning it rarely crashes. When an application requires krnl.dll, Windows will check the appliance and system folders for this .dll file. If the file is missing you’ll receive a mistake and therefore the application might not function properly.
 
-### Possible Fixes for krnl.dll Errors
+ ### Krnl is arguably one among the simplest Roblox exploits out there in terms of script execution. Krnl is extremely stable meaning it rarely crashes. When an application requires krnl.dll, Windows will check the appliance and system folders for this .dll file. If the file is missing you’ll receive a mistake and therefore the application might not function properly.
+
+ ### Possible Fixes for krnl.dll Errors
 First re-Install the app that requires krnl.dll.
 Make sure your app has the latest update.
 Install all the available Windows updates and also available driver updates.
@@ -65,7 +66,8 @@ or
 https://cdn.krnl.place/getkey
 
 <h1> About Key
-Krnl is one of the most popular and best Roblox exploits used by thousands of gamers to use the glitches of the game and run hacking scripts. If you don’t know about Roblox, it’s a gaming storefront where you can play any game developed by other users and programmers around the world. 
+
+ ### Krnl is one of the most popular and best Roblox exploits used by thousands of gamers to use the glitches of the game and run hacking scripts. If you don’t know about Roblox, it’s a gaming storefront where you can play any game developed by other users and programmers around the world. 
 
 Roblox gaming engine allows the user to chose and play thousands of games without facing many issues. However, some games are hard to pass. Therefore, some users have developed a way to overcome these hurdles and improve their gaming experience. To do so, they use the Krnl key system and scripts. In this blog, we’ll discuss the Krnl exploit, how to use it, and what to do, in case you have any problems. 
 
@@ -196,7 +198,8 @@ https://aka.ms/vs/16/release/vc_redist.x86.exe/
 
 
 <h1> Frequently Asked Questions (FAQs) :
-Q. Is Krnl illegal and secure to use?
+
+ ### Q. Is Krnl illegal and secure to use?
 
 Ans. WeAreDevs created the Krnl, and it has a similar nature to the script. Thus, it behaves like Malware or viruses, so make sure to disable any sort of Anti-virus or windows defender.
 
