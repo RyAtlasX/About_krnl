@@ -1,17 +1,17 @@
 <h1> About krnl
 
-   Krnl is one of the best free Roblox exploit, download Krnl latest version for free.
+ ###   Krnl is one of the best free Roblox exploit, download Krnl latest version for free.
  
-   Krnl is presently the best Roblox exploits out here that you guys can have in terms of script performance. Krnl is one of the exploits which are very stable and steady and it rarely crashed.
+ ###  Krnl is presently the best Roblox exploits out here that you guys can have in terms of script performance. Krnl is one of the exploits which are very stable and steady and it rarely crashed.
 
 Krnl is the exploit which is designed and made by the most popular Ice Bear who is very a popular and trustworthy and made many cheats in the past. Just like some super-compact scripts like Owl Hub. Krnl offers a number of the previously premium-only features for ‘FREE’, so you guys can get rid of paid executor for a few scripts.
 
-### Introduction
+ ### Introduction
 Developed by Ice Bear, Krnl is one of the best and reliable Roblox exploits used to get an advantage by using exploiting the vulnerabilities of the script. When it comes to script performance, Krnl is a pretty stable exploit that rarely crashed during the gameplay.
 
 Ice Bear, the producer of Krnl has also produced other cheat in the past for different gamin platforms and storefronts. That’s why Krnl supports the complete debugging and drawing library of the Roblox. Moreover, Krnl supports scripts like Owl Hub, which means you can execute advanced functions without any problem. 
 
-### Krnl Instructions
+ ### Krnl Instructions
 Disable the Antivirus and download the Krnl on your device.
 Open Roblox and join any game you want to play.
 Launch Krnl and finish the key system.
@@ -26,15 +26,20 @@ At last, execute the scripts available at the official website https://krnl.plac
 4. Now Join any game you want to play.
 5. The last step when you open the exploit folder and run “[EXPLOIT-NAME].exe”.
 
-<h1> Krnl Download Links: 
+ <h1> Krnl Download Links: 
+
 ### Krnl Beta: 
 https://krnl.vip/dl 
+
 ### Krnl Legacy: 
 https://krnl.vip/lv 
+
 ### Krnl WeAreDevs: 
 https://wearedevs.net/d/Krnl 
+
 ### Krnl API.dll: 
 https://k-storage.com/bootstrapper/files/KrnlAPI.dll
+
 ### Krnl ConsoleBootstrapper: 
 https://github.com/RyAtlasX/krnl_console-bootstrapper/raw/main/krnl_console_bootstrapper.exe
 
@@ -91,13 +96,12 @@ Krnl Key is a text or a string of characters, which the user has to enter in the
 For bypassing the Krnl key system, you have to visit the Linkvertise website and select the Krnl key bypass option that fits your system description. Now, click on the Free access option and a new webpage will appear. From there, you just have o complete a simple task and continue with the key generation process. You can also watch the Youtube video associated with every Krnl key bypass guide.
 
 <h1> Top 5 Krnl Alternatives That Works
-By krnl
-May 26, 2021
-Krnl is one of the best and most popular exploits for the Roblox platform. It’s a pretty stable and reliable tool that allows the user to super-compact scripts like the Owl Hub for free. This is because Krnl uses key systems to generate revenue.
 
-Although Krnl is a great software and doesn’t show many problems, sometimes it crashes or doesn’t function because of some compatibility issues. In that case, you can check out these top 5 alternatives of Krnl that work pretty well on almost every device.
+ ### Krnl is one of the best and most popular exploits for the Roblox platform. It’s a pretty stable and reliable tool that allows the user to super-compact scripts like the Owl Hub for free. This is because Krnl uses key systems to generate revenue.
 
-### 1. JJSploit:
+ ### Although Krnl is a great software and doesn’t show many problems, sometimes it crashes or doesn’t function because of some compatibility issues. In that case, you can check out these top 5 alternatives of Krnl that work pretty well on almost every device.
+
+ ### 1. JJSploit:
 From a simple command-line cheat program, JJSploit has now become a full-features Lua executor that works in almost any device. With no paid advertisements, JJSploit provides a clean UI which makes it easier for the user to run complex cheats without facing any crash issue.
 
 JJSploit Instruction
@@ -108,7 +112,7 @@ Not available for other operating systems other than windows.
 Most patches of the DLL injector get updated almost every week. So, regularly check the website if there’s any update available.
 If you’re unable to download the software, try disabling your Antivirus or Windows Firewall.
 
-### 2. Coco Z: 
+ ### 2. Coco Z: 
 It’s a beautifully designed, feature-rich, good execution exploit created by Walz, N4ri, and MC.
 
 Coco Z Instruction
@@ -123,7 +127,7 @@ Accept the privacy policy and press the ‘Get key’ option to a Linkvertise li
 Now, click on the checkboxes for free access with ads and discover interesting articles.
 Complete the process by copying the key from the Key system page and paste it into Coco Z.
 
-### 3. Skisploit: 
+ ### 3. Skisploit: 
 Skisploit is yet another Lua execute available for free. The main advantage of Skisploit that it doesn’t have any kind of key system as it’s completely free. The user can directly use it for full exploitation of the Roblox. Also, it has some unique features like instance caching, debugging the library, writing a file, getting the clipboard, reading the file, and bit library.
 
 Skisploit Instruction 
@@ -144,7 +148,7 @@ Similar to JJSploit, Gravity Switch comes under DLL exploit, which means you sho
 Disable your Antivirus and then download the hack. The reason why you should disable it is that the Antivirus mark exploits software like Gravity Switch as malware or virus.
 The remaining process is the same for almost every exploits software, so just follow the steps mentioned for the hacks in the above section.
 
-### 5. Oxygen U: 
+ ### 5. Oxygen U: 
 Oxygen U is a level 6 Lua executor that can run more than 80% of the total scripts without crashing. Along with frequent updates and beautiful UI, Oxygen U has a faster loading, attachment, and execution time. The feature-rich custom UI allows the user to quickly set up the exploit and apply and execute the scripts for particular games on Roblox. Moreover, you can download it for free without paying any money, from the Oxygen U website.
 
 Oxygen U Instructions
@@ -161,15 +165,15 @@ Roblox is an online virtual playground and workshop where users can start by cre
 
 <h1> Krnl.dll is not working
 
-### Fix 1: Don’t use third-party antivirus.
+ ### Fix 1: Don’t use third-party antivirus.
 
 Most users experience enabling third-party antivirus like; McAfee, Norton, Eset, Kaspersky, etc. don’t give you expected results. If you’ve any of these antiviruses, then uninstall or disable that.
 
-### Fix 2: Exclude Krnl from Windows defender and use the latest version.
+ ### Fix 2: Exclude Krnl from Windows defender and use the latest version.
 
 Make sure your Krnl isn’t blocked by Windows defender. Exclude it via manage settings in virus and threat protection. Reboot the system. Download the latest version of Krnl and install it via keeping the above things in mind.
 
-### Attach does nothing in Krnl
+ ### Attach does nothing in Krnl
 
 Since it can change a user’s avatar and clothing in Roblox, its developers get many complaints about different types of errors. Although, the error of Krnl not working is fixed on its own, or sometimes it doesn’t. Below are the methods to fix this problem.
 
@@ -178,10 +182,11 @@ If Krnl does nothing after the installation or shows errors, then follow the ste
 Make sure you’ve excluded the Krnl from windows defender in Protection and threat settings.
 If you have any 3rd party antivirus installed on your computer, then disable it.
 Download and install these files below.
-### For the .Net framework package, use this link: 
+
+ ### For the .Net framework package, use this link: 
 https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net472-web-installer
 
-### For Visual C++ Redistributable files, use these links:
+ ### For Visual C++ Redistributable files, use these links:
 
 https://aka.ms/vs/16/release/vc_redist.x64.exe/
 
